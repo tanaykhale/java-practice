@@ -2,6 +2,34 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Student",
+      "request": "launch",
+      "mainClass": "Student",
+      "projectName": "Java core_1d7fdda2"
+    },
+    {
+      "type": "java",
+      "name": "MyBox",
+      "request": "launch",
+      "mainClass": "MyBox",
+      "projectName": "Java core_1d7fdda2"
+    },
+    {
+      "type": "java",
+      "name": "MyNumber",
+      "request": "launch",
+      "mainClass": "MyNumber",
+      "projectName": "Java core_1d7fdda2"
+    },
+    {
+      "type": "java",
+      "name": "Employee",
+      "request": "launch",
+      "mainClass": "Employee",
+      "projectName": "Java core_1d7fdda2"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
